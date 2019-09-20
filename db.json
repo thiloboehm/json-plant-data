@@ -1,5 +1,5 @@
 {
-    "plant": [
+    "plants": [
         {
             "id": 1,
             "name": "Karlsruhe",
@@ -22,7 +22,7 @@
             "url": "https://sal.siemens.cloud/location/detail/6"
         }
     ],
-    "Machine": [
+    "machines": [
         {
             "id": 1,
             "name": "Drilling Machine 1",

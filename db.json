@@ -29,6 +29,26 @@
             "latitude": 50.32817,
             "longitude": 10.22413,
             "url": "https://sal.siemens.cloud/location/detail/6"
+        },
+        {
+            "id": 4,
+            "name": "WAR",
+            "street": "Max-Planck-Straße 5",
+            "code": "59581",
+            "city": "Warstein",
+            "longitude": 51.4880,
+            "latitude": 8.3231,
+            "url": "https://www.infineon.com/cms/warstein/de/?redirId=52413"
+        },
+        {
+            "id": 5,
+            "name": "MAL",
+            "street": "Free Trade Zone, Batu Berendam",
+            "code": "75350",
+            "city": "Malacca",
+            "longitude": 2.23367,
+            "latitude": 102.2594,
+            "url": "https://www.infineon.com/cms/de/about-infineon/company/find-a-location/"
         }
     ],
     "machines": [

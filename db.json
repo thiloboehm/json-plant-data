@@ -2,21 +2,30 @@
     "plants": [
         {
             "id": 1,
-            "name": "Karlsruhe",
+            "name": "KHE S",
+            "street": "Siemensallee 84",
+            "code": "76187",
+            "city": "Karlsruhe",
             "longitude": "49.028764",
             "latitude": "8.343651",
             "url": "https://sal.siemens.cloud/location/detail/2997"
         },
         {
             "id": 2,
-            "name": "Amberg",
+            "name": "AMB",
+            "street": "Werner-von-Siemens-Str. 48",
+            "code": "92224",
+            "city": "Amberg",
             "longitude": "49.43323",
             "latitude": "11.86324",
             "url": "https://sal.siemens.cloud/location/detail/2"
         },
         {
             "id": 3,
-            "name": "Neustadt",
+            "name": "NES S",
+            "street": "Siemensstr. 15",
+            "code": "97616 ",
+            "city": "Bad Neustadt a.d.Saale",
             "longitude": "50.32817",
             "latitude": "10.22413",
             "url": "https://sal.siemens.cloud/location/detail/6"

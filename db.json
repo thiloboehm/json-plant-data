@@ -16,8 +16,8 @@
             "street": "Werner-von-Siemens-Str. 48",
             "code": "92224",
             "city": "Amberg",
-            "longitude": 49.43323,
-            "latitude": 11.86324,
+            "latitude": 49.43323,
+            "longitude": 11.86324,
             "url": "https://sal.siemens.cloud/location/detail/2"
         },
         {
@@ -26,8 +26,8 @@
             "street": "Siemensstr. 15",
             "code": "97616 ",
             "city": "Bad Neustadt a.d.Saale",
-            "longitude": 50.32817,
-            "latitude": 10.22413,
+            "latitude": 50.32817,
+            "longitude": 10.22413,
             "url": "https://sal.siemens.cloud/location/detail/6"
         }
     ],
